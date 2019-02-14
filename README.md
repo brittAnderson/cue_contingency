@@ -6,7 +6,7 @@ Keep in mind that because there are only two cues and one of them HAS to be pred
 2 key things to keep distinct:
 
 The probability that a given cue is the predictive one (cue contingency---i.e., the outcome depends on the cue of this modality); and, 
-The probability that a given cue is valid (cue validity---i.e., the probability that a predictive cue is correct).
+The probability that a given cue is valid (cue validity---i.e., the probability that a predictive cue is telling the truth).
 
 The likelihood of a reward given a pairing of cues is given by the probability that the cue you *believe is predictive* is valid. In the case where cues are perfectly valid this gives a probability of 1 of being rewarded when the good cue is shown and a probability of 0 of being rewarded when the bad cue is shown. Then we can infer which of the cues is actually predictive by matching the outcome of a trial with the predictions of the cues... when they disagree. If they both make the same prediction (and this will be the correct prediction because one of them has to be predictive) then you can't tell which one is the predictive cue despite the 100% cue validity.
 
